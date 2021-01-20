@@ -1,0 +1,13 @@
+text-muted {
+    color: #6c757d!important;
+}
+.rodape {
+    text-align: center !important;
+}
+.pt-5 {
+    padding-top: 3rem!important;
+}
+.my-5 {
+    margin-top: 3rem!important;
+    margin-bottom: 3rem!important;
+}
